@@ -1,0 +1,7 @@
+@import 'tailwindcss/base';
+
+.appSize{
+    max-width: 1200px;
+    min-width: 360px;
+    background-color: red;
+}
